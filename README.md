@@ -121,7 +121,7 @@ Add screenshots of:
 ![Regional Sales Pie Chart](Topsalescountries.png)
 ![Platform Sales Chart](highestplatform.png)
 ![Regional Sales by Platform Chart](alloversalesbyregional.png)
-![Conclusion Page](ConclusionPage.png)
+![Conclusion Page](Conclusion_Page.png)
 
 
 
